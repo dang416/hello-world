@@ -30,7 +30,8 @@ Table	| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-Fenced Code Block	```
+Fenced Code Block	
+```
 {
   "firstName": "John",
   "lastName": "Smith",
